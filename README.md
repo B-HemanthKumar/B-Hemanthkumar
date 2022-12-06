@@ -10,9 +10,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center"> Welcome to the world of "WEB DEVELOPMENT" </h3>
 
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center"> Welcome to the world of "WEB DEVELOPMENT" </h3>
+<hr>
+
+### hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -24,10 +27,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<hr>
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B-HemanthKumar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<hr>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?B-HemanthKumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
