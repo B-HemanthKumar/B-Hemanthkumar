@@ -1,10 +1,18 @@
-### Hi there 👋
-
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)" width="100"/>
+<!--  ### Hi there 👋
+ -->
+ 
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="200"/>
 </div>
 
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h3 align="center"> Welcome to the world of "WEB DEVELOPMENT" </h3>
 <!--
+
 **B-HemanthKumar/B-Hemanthkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
