@@ -1,17 +1,17 @@
 <!--  ### Hi there 👋
  -->
  
-<div id="header" align="center" >
+<div id="header">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="200"/>
 </div>
 
-<h1 align="center">
+<h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
-<h3 align="center"> Welcome to the world of "WEB DEVELOPMENT" </h3>
+<h3> Welcome to the world of "WEB DEVELOPMENT" </h3>
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
