@@ -20,12 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
-
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
-<img src= "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
- 
 </div>
 <hr>
 
